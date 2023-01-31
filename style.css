@@ -261,7 +261,7 @@
   .top-container {
     flex-direction: column-reverse;
     width: 100%;
-    height: 600px;
+    height: 500px;
     padding: 20px 0;
   }
   .left-side {
@@ -286,6 +286,7 @@
   }
   .right-side img {
     width: 100%;
+    height: 300px;
   }
 
   .card-box {
@@ -298,8 +299,8 @@
     margin-top: 20px;
   }
   .card {
-    width: 355px;
-    margin-top: 20px;
+    width: 92%;
+    margin: 20px auto;
     padding: 10px;
     border-radius: 4px;
     box-shadow: none;
@@ -353,12 +354,12 @@
     background-image: url(./images/shape/Group_33094_1.png);
     background-size: cover;
     width: 98%;
-    height: 110px;
+    height: 200px;
     margin: 20px auto;
     border-radius: 20px;
   }
   .workout-container {
-    padding-top: 40px;
+    padding-top: 80px;
   }
   .workout-text {
     font-size: 18px;
